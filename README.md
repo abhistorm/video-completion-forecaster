@@ -1,6 +1,6 @@
 # Video Completion Forecaster
 
-**Project 090 of 100 · Education & digital media · Regression**
+**Project  · Education & digital media · Regression**
 
 A standalone, runnable AI/ML project with its own saved fitted model, prediction API, and browser GUI. Its primary workflow is **Video Completion Forecaster · Model scorecard**. The feature fields, target, model, and project-specific control are configured for this use case.
 
