@@ -1,0 +1,14 @@
+{
+  "features": {
+    "p090_video_completion_forecaster_study_hours_week": 0.0,
+    "p090_video_completion_forecaster_attendance_pct": 0.0,
+    "p090_video_completion_forecaster_quiz_avg": 0.0,
+    "p090_video_completion_forecaster_assignment_lateness": 0.0,
+    "p090_video_completion_forecaster_prior_score": 0.0,
+    "p090_video_completion_forecaster_class_size": 0.0,
+    "p090_video_completion_forecaster_screen_time_hours": 0.0,
+    "p090_video_completion_forecaster_content_duration_min": 0.0,
+    "p090_video_completion_forecaster_engagement_clicks": 0.0,
+    "p090_video_completion_forecaster_interaction_pause_count": 0.0
+  }
+}
